@@ -1,0 +1,11 @@
+{
+  "title": "Microsoft Defender Dashboard",
+  "widgets": [
+    {
+      "type": "chart",
+      "title": "Endpoint Threats",
+      "data_source": "defender_logs",
+      "chart_type": "bar"
+    }
+  ]
+}
