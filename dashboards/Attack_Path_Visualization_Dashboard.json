@@ -1,0 +1,11 @@
+{
+  "title": "Attack Path Visualization Dashboard",
+  "widgets": [
+    {
+      "type": "graph",
+      "title": "Attack Path",
+      "data_source": "attack_simulation",
+      "layout": "force-directed"
+    }
+  ]
+}
