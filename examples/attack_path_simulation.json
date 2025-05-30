@@ -1,0 +1,7 @@
+{
+  "attack_path": [
+    {"step": 1, "action": "Initial Access", "description": "Phishing email clicked"},
+    {"step": 2, "action": "Execution", "description": "Malware executed"},
+    {"step": 3, "action": "Lateral Movement", "description": "Access to internal network"}
+  ]
+}
