@@ -1,0 +1,11 @@
+{
+  "title": "Insider Threat Analysis Dashboard",
+  "widgets": [
+    {
+      "type": "chart",
+      "title": "Unusual Access Patterns",
+      "data_source": "internal_logs",
+      "chart_type": "pie"
+    }
+  ]
+}
