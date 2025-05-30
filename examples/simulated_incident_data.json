@@ -1,0 +1,16 @@
+{
+  "incidents": [
+    {
+      "id": "INC001",
+      "title": "Simulated Phishing Attack",
+      "description": "A phishing email was reported targeting the finance department.",
+      "severity": "Medium"
+    },
+    {
+      "id": "INC002",
+      "title": "Suspicious Login Activity",
+      "description": "Multiple failed login attempts from an unknown IP.",
+      "severity": "High"
+    }
+  ]
+}
