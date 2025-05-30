@@ -1,0 +1,11 @@
+{
+  "title": "Sentinel Threat Hunting Dashboard",
+  "widgets": [
+    {
+      "type": "chart",
+      "title": "Suspicious Logins",
+      "data_source": "sentinel_logs",
+      "chart_type": "line"
+    }
+  ]
+}
