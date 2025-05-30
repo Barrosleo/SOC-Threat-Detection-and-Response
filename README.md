@@ -11,7 +11,7 @@
 SOC Level 1 analysts, threat intelligence engineers, and cybersecurity professionals looking to enhance their incident response and threat detection capabilities.
 
 ### Repository Structure
-
+```
 SOC-Threat-Detection-and-Response/
 ├── README.md
 ├── .gitignore
@@ -55,7 +55,7 @@ SOC-Threat-Detection-and-Response/
     ├── SOC_Incident_Response_Workflows.ipynb
     ├── Purview_Data_Security_Insights.ipynb
     └── Automated_Threat_Detection_Using_AI.ipynb
-
+```
 ---
 
 ## 2. Core Components & Functionality
