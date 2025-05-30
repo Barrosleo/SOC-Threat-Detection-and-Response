@@ -1,0 +1,7 @@
+{
+  "insider_threat": {
+    "user_id": "user123",
+    "activity": "Accessed sensitive files outside business hours",
+    "risk_level": "High"
+  }
+}
