@@ -1,0 +1,4 @@
+[
+  {"alert_id": "ALRT001", "severity": "High", "description": "Multiple failed logins detected"},
+  {"alert_id": "ALRT002", "severity": "Medium", "description": "Unusual data transfer patterns"}
+]
